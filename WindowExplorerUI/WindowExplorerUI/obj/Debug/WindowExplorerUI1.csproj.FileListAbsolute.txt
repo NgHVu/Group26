@@ -1,0 +1,10 @@
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\bin\Debug\WindowExplorerUI1.exe.config
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\bin\Debug\WindowExplorerUI1.exe
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\bin\Debug\WindowExplorerUI1.pdb
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.csproj.AssemblyReference.cache
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.Form1.resources
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.Properties.Resources.resources
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.csproj.GenerateResource.cache
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.csproj.CoreCompileInputs.cache
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.exe
+D:\UIT\Lặp trình mạng\BT tuần 1 + 2\WindowExplorerUI1\WindowExplorerUI1\obj\Debug\WindowExplorerUI1.pdb

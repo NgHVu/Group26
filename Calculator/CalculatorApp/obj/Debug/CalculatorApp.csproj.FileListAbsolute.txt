@@ -1,0 +1,11 @@
+D:\lập trình mạng\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\lập trình mạng\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\lập trình mạng\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\lập trình mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
