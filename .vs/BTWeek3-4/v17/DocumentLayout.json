@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5532ECD1-8564-452F-B81A-1FC45A3F055F}|ServerChat\\ServerChat.csproj|c:\\uit\\l\u1EB7p tr\u00ECnh m\u1EA1ng\\btweek3-4\\serverchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5532ECD1-8564-452F-B81A-1FC45A3F055F}|ServerChat\\ServerChat.csproj|solutionrelative:serverchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D169352-BA3B-4896-A053-95E0F28F5849}|Client\\Client.csproj|c:\\uit\\l\u1EB7p tr\u00ECnh m\u1EA1ng\\btweek3-4\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D169352-BA3B-4896-A053-95E0F28F5849}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D169352-BA3B-4896-A053-95E0F28F5849}|Client\\Client.csproj|c:\\uit\\l\u1EB7p tr\u00ECnh m\u1EA1ng\\btweek3-4\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D169352-BA3B-4896-A053-95E0F28F5849}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5532ECD1-8564-452F-B81A-1FC45A3F055F}|ServerChat\\ServerChat.csproj|C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\serverchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5532ECD1-8564-452F-B81A-1FC45A3F055F}|ServerChat\\ServerChat.csproj|solutionrelative:serverchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D169352-BA3B-4896-A053-95E0F28F5849}|Client\\Client.csproj|c:\\uit\\l\u1EB7p tr\u00ECnh m\u1EA1ng\\btweek3-4\\client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D169352-BA3B-4896-A053-95E0F28F5849}|Client\\Client.csproj|solutionrelative:client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\Client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.Designer.cs",
+              "ToolTip": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\Client\\Form1.Designer.cs",
+              "RelativeToolTip": "Client\\Form1.Designer.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAvwIgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:28:00.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\ServerChat\\Form1.cs",
+              "RelativeDocumentMoniker": "ServerChat\\Form1.cs",
+              "ToolTip": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\ServerChat\\Form1.cs",
+              "RelativeToolTip": "ServerChat\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:26:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwv3AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:12:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:37:51.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\ServerChat\\Form1.cs",
+              "RelativeDocumentMoniker": "ServerChat\\Form1.cs",
+              "ToolTip": "C:\\UIT\\L\u1EB7p tr\u00ECnh m\u1EA1ng\\BTWeek3-4\\ServerChat\\Form1.cs [Design]",
+              "RelativeToolTip": "ServerChat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:32:32.636Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

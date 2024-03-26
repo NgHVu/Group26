@@ -1,0 +1,10 @@
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\bin\Debug\ServerChat.exe.config
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\bin\Debug\ServerChat.exe
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\bin\Debug\ServerChat.pdb
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.csproj.AssemblyReference.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.Form1.resources
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.Properties.Resources.resources
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.csproj.GenerateResource.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.exe
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.pdb
