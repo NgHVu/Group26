@@ -1,0 +1,20 @@
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\bin\Debug\Client.exe.config
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\bin\Debug\Client.exe
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\bin\Debug\Client.pdb
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.Form1.resources
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.Properties.Resources.resources
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.exe
+C:\UIT\Lặp trình mạng\BTWeek3-4\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.Form1.resources
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\Client\obj\Debug\Client.pdb

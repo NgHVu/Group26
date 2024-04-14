@@ -1,0 +1,30 @@
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\bin\Debug\ServerChat.exe.config
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\bin\Debug\ServerChat.exe
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\bin\Debug\ServerChat.pdb
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.csproj.AssemblyReference.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.Form1.resources
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.Properties.Resources.resources
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.csproj.GenerateResource.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.exe
+C:\UIT\Lặp trình mạng\BTWeek3-4\ServerChat\obj\Debug\ServerChat.pdb
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\bin\Debug\ServerChat.exe.config
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\bin\Debug\ServerChat.exe
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\bin\Debug\ServerChat.pdb
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.csproj.AssemblyReference.cache
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.Form1.resources
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.Properties.Resources.resources
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.csproj.GenerateResource.cache
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.exe
+D:\Học Tâp\lập trình mạng\Group26\ServerChat\obj\Debug\ServerChat.pdb
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\bin\Debug\ServerChat.exe.config
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\bin\Debug\ServerChat.exe
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\bin\Debug\ServerChat.pdb
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.Form1.resources
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.Properties.Resources.resources
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.exe
+C:\Users\Admin\Desktop\Group26\BTWeek5+6\ServerChat\obj\Debug\ServerChat.pdb
